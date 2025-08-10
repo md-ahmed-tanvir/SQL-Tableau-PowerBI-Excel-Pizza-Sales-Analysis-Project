@@ -79,6 +79,14 @@ Various aspects of pizza sales data were visualized to gain insights and underst
 **Conclusion:**
 This portfolio project serves as a testament to the ability to harness data effectively, transforming it into actionable insights. It showcases the technical prowess and dedication to providing invaluable solutions through data analysis.
 
+### 📊 Tableau Visualizations
+
+Explore my interactive Tableau dashboards and visual stories:
+
+🔗 **[View Tableau Public Portfolio](https://public.tableau.com/app/profile/md.tanvir.ahmed8315/vizzes)**  
+Topics include sales dashboards, app analytics, geographic insights, and more.
+
+
 📄 License
 © 2025 Md. Tanvir Ahmed — All Rights Reserved
 
