@@ -6,17 +6,17 @@
 **Preview of Projects**
 
 **SQL Queries:**
-![SQL Pizza Sales Queries](https://github.com/ekaterinakham/SQL-Tableau-PowerBI-Excel-Pizza-Sales-Analysis-Project/assets/144201262/cf639cef-0979-4629-a6c7-010f10247f39)
+![SQL Pizza Sales Queries](https://github.com/md-ahmed-tanvir/SQL-Tableau-PowerBI-Excel-Pizza-Sales-Analysis-Project/blob/main/273617215-cf639cef-0979-4629-a6c7-010f10247f39.jpg)
 
 **Excel Pizza Sales Analytics Dashboard:**
-![Excel Pizza Sales Dashboard](https://github.com/ekaterinakham/SQL-Tableau-PowerBI-Excel-Pizza-Sales-Analysis-Project/assets/144201262/5334b852-80cd-4dd2-b55b-0027069a794f)
+![Excel Pizza Sales Dashboard](https://github.com/md-ahmed-tanvir/SQL-Tableau-PowerBI-Excel-Pizza-Sales-Analysis-Project/blob/main/273617525-5334b852-80cd-4dd2-b55b-0027069a794f.jpg)
 
 **Power BI Pizza Sales Analytics Dashboard:**
-![Pizza Sales Power Bi](https://github.com/ekaterinakham/SQL-Tableau-PowerBI-Excel-Pizza-Sales-Analysis-Project/assets/144201262/291f54ce-f7e7-4279-b25e-52db52494cf7)
+![Pizza Sales Power Bi](https://github.com/md-ahmed-tanvir/SQL-Tableau-PowerBI-Excel-Pizza-Sales-Analysis-Project/blob/main/273617689-291f54ce-f7e7-4279-b25e-52db52494cf7.jpg)
 
 **Tableau Pizza Sales Analytics Dashboard:**
-![Pizza Sales Home](https://github.com/ekaterinakham/SQL-Tableau-PowerBI-Excel-Pizza-Sales-Analysis-Project/assets/144201262/5391837f-95c0-4842-9a43-73f5517ebc1f)
-![Pizza Sales Best   Worst Sellers](https://github.com/ekaterinakham/SQL-Tableau-PowerBI-Excel-Pizza-Sales-Analysis-Project/assets/144201262/11804e37-f69f-46b1-9e4d-54466d61e433)
+![Pizza Sales Home](https://github.com/md-ahmed-tanvir/SQL-Tableau-PowerBI-Excel-Pizza-Sales-Analysis-Project/blob/main/273617766-5391837f-95c0-4842-9a43-73f5517ebc1f.png)
+![Pizza Sales Best   Worst Sellers](https://github.com/md-ahmed-tanvir/SQL-Tableau-PowerBI-Excel-Pizza-Sales-Analysis-Project/blob/main/273617801-11804e37-f69f-46b1-9e4d-54466d61e433.png)
 
 **Project Overview**
 
@@ -79,3 +79,20 @@ Various aspects of pizza sales data were visualized to gain insights and underst
 **Conclusion:**
 This portfolio project serves as a testament to the ability to harness data effectively, transforming it into actionable insights. It showcases the technical prowess and dedication to providing invaluable solutions through data analysis.
 
+📄 License
+© 2025 Md. Tanvir Ahmed — All Rights Reserved
+
+This repository is for educational and professional showcase purposes only.
+
+❌ No downloading
+
+❌ No copying
+
+❌ No modifying
+
+❌ No redistribution
+
+❌ No commercial use
+
+You may view the contents of this repository for reference purposes only.
+Any other use requires explicit written permission from Md. Tanvir Ahmed.
